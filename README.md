@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo Solar</h1>
-<h3 align="center">A passionate Back-end developer from Mexico</h3>
+<h3 align="center">Back-end developer in Mexico</h3>
 
-- 🔭 I’m currently working on **Grupo Salinas**
+- 🔭 I’m currently work at **Grupo Salinas** as a middleware engineer
 
-- 🌱 I’m currently learning **English**
+- 🌱 I’m learning **English**
 
-- 👨‍💻 All of my projects are available at [https://gustavo-solar-developer.netlify.app/home](https://gustavo-solar-developer.netlify.app/home)
+- 👨‍💻 To know a little more visit my website [https://gustavo-solar-developer.netlify.app/home](https://gustavo-solar-developer.netlify.app/home)
 
-- 📫 How to reach me **gustavosolar85@gmail.com**
+- 📫 How to contact me **gustavosolar85@gmail.com**
