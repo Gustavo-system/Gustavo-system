@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Solar</h1>
 <h3 align="center">Back-end developer in Mexico</h3>
 
-- 🔭 I currently work as a middleware engineer
+- 🔭 I currently work as a Middleware Engineer
 
 - 🌱 I learning **English**
 
